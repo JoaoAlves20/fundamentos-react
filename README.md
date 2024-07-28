@@ -1,7 +1,6 @@
 # fundamentos-react
 
 Neste projeto, apenas tem algumas funcionalidades para aprender sobre o React. Foi usado o React da versão 17.0.2
-Não tem bando de dados ou alguma coisa asism, apenas o que é necessário para o meu aprendizado dentro do JStack, na Hotmart
 
 Como será visto dentro dos arquivos, foi feito e usado:
   1. configuração do Babel
