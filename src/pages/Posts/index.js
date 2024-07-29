@@ -1,11 +1,11 @@
 import React from "react";
 
 import { Container } from "./styles";
-import Post from './Post'
+import Post from '../../components/Post'
 
 import posts from './posts'
 
-export default function PostsList() {
+export default function Posts() {
   return (
     <Container>
       {posts.map((post) => (

@@ -12,3 +12,6 @@ Como será visto dentro dos arquivos, foi feito e usado:
   7. Styled Components
   8. Provider do Styled Components
   9. Props para uso tanto do Styled Components quanto dos Componentes do React
+  10. React Router V5
+
+  Para iniciar o servidor, basta inserir "yarn dev".
