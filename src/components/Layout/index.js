@@ -12,7 +12,7 @@ export default function Layout() {
     <BrowserRouter>
       <Header />
       <Nav>
-        <Link to="/home">Home</Link>
+        <Link to="/">Home</Link>
         <Link to="/posts">Posts</Link>
       </Nav>
       <Routes />

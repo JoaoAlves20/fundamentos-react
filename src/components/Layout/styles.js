@@ -10,7 +10,7 @@ export const Nav = styled.nav`
     a{
       color: ${theme.textColor};
     }
-    `}
+  `}
     
     justify-content: space-between;
     display: flex;
